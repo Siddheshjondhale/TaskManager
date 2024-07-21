@@ -1,11 +1,15 @@
 <template>
   
   <div>
-   <h1>hie this is index</h1>
+   <Home/>
   </div>
+
+
 </template>
 
 <script setup lang="ts">
+import Home from './Home.vue';
+
 </script>
 
 <style scoped></style>
