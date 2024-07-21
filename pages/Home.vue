@@ -17,6 +17,8 @@
 </template>
 
 <script setup lang="ts">
+import TempNavbar from '~/components/TempNavbar.vue';
+
 
 </script>
 

@@ -77,7 +77,7 @@
             </li>
             <li class="max-lg:border-b max-lg:py-1 px-3">
               <a
-                href="/ManageTask"
+                href="/TaskManager"
                 class="text-[#333] hover:text-[#007bff] text-[15px] block font-semibold"
                 >Manage Task</a
               >

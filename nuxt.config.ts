@@ -14,7 +14,10 @@
 export default {
   // Nuxt.js modules and other configuration options
   modules: ["@nuxtjs/tailwindcss"],
-
+ plugins: [
+    '~/plugins/fontawesome.ts'
+  ],
+  
   head: {
 
      link:[
@@ -24,7 +27,7 @@ export default {
       },
 
     ],
-    
+
     script: [
       {
         src: 'https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.js',
